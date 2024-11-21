@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<productos>
+    <producto>
+        <nombre>peres</nombre>
+        <codigo>3233</codigo>
+        <precio>343232</precio>
+        <categoria>dfffff</categoria>
+    </producto>
+</productos>
